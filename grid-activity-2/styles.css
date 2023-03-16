@@ -67,8 +67,8 @@ a {
   font-size: 17px;
   text-align: center;
   background-color: #fff;
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
 }
 
 .s3 div:first-child {
@@ -106,6 +106,5 @@ a {
   display: flex;
   font-size: 17px;
   justify-content: center;
-  aligt-item: center;
   background-color: #393f4d;
 }
